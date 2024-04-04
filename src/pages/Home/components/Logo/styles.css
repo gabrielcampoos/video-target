@@ -2,7 +2,7 @@
     width: 600px;
     height: 600px;
     animation: is-rotating 3s linear infinite ;
-    border: 70px solid #ff0000;
+    border: 60px solid #ff0000;
     display: inline-block;
     box-sizing: border-box;
     border-bottom-color: transparent;
@@ -13,7 +13,7 @@
     width: 400px;
     height: 400px;
     animation: is-rotating-inf 2.5s linear infinite;
-    border: 70px solid #ff0000;
+    border: 60px solid #ff0000;
     display: inline-block;
     box-sizing: border-box;
     border-left-color: transparent;

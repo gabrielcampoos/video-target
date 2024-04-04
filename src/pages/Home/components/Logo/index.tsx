@@ -64,7 +64,7 @@ export const Logo = () => {
 					component="img"
 					src={LogoTarget}
 					sx={{
-						width: '90%',
+						width: '100%',
 					}}
 				/>
 			</Box>
