@@ -58,7 +58,7 @@ export const Logo = () => {
 					display: 'flex',
 					justifyContent: 'center',
 					alignItems: 'center',
-					pr: 8,
+					pr: 12,
 				}}
 			>
 				<Box
