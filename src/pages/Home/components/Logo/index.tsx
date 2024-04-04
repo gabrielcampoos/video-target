@@ -42,12 +42,12 @@ export const Logo = () => {
 				<Box
 					component="div"
 					sx={{
-						width: '100px',
-						height: '100px',
+						width: '120px',
+						height: '120px',
 						borderRadius: '50%',
 						background: '#ff0000',
 						position: 'absolute',
-						top: 400,
+						top: 390,
 					}}
 				/>
 			</Box>
