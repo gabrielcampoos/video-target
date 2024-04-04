@@ -28,7 +28,7 @@ export const Logo = () => {
 					className="logo"
 					sx={{
 						position: 'absolute',
-						top: 110,
+						top: 150,
 					}}
 				/>
 				<Box
@@ -36,18 +36,18 @@ export const Logo = () => {
 					className="logoInf"
 					sx={{
 						position: 'absolute',
-						top: 200,
+						top: 240,
 					}}
 				/>
 				<Box
 					component="div"
 					sx={{
-						width: '75px',
-						height: '75px',
+						width: '80px',
+						height: '80px',
 						borderRadius: '50%',
 						background: '#ff0000',
 						position: 'absolute',
-						top: 300,
+						top: 360,
 					}}
 				/>
 			</Box>
@@ -64,7 +64,7 @@ export const Logo = () => {
 					component="img"
 					src={LogoTarget}
 					sx={{
-						width: '95%',
+						width: '90%',
 					}}
 				/>
 			</Box>
